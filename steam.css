@@ -1,0 +1,145 @@
+/*
+* @Author: Blue
+* @Date:   2020-04-30 17:08:50
+* @Last Modified by:   Blue
+* @Last Modified time: 2020-04-30 19:30:16
+*/
+*{
+	margin: 0px;
+	padding: 0px;
+}
+ul{
+	list-style: none;
+}
+a{
+	color: black;
+	text-decoration: none;
+}
+.header-wrap{
+	background-color: #ffffff;
+}
+.header {
+	width: 1200px;
+	height: 31px;
+	margin: 0 auto;
+	background-color: #333333;
+}
+.header p{
+	float: left;
+	text-align: center;
+	line-height: 31px;
+}
+.header a{
+	float: left;
+	text-align: center;
+	line-height: 31px;
+	font-size: 15px;
+}
+.header img{
+	vertical-align:middle;
+	text-align: center;
+	line-height: 31px;	
+}
+.p1{
+	color: #ffffff;
+	font-size: 15px;
+	margin-left: 100px;
+}
+select{
+	border:0px;
+	color: #aaa9a9;
+}
+.a1{
+	margin-left: 400px;
+	color: #ffffff;
+}
+.a2{
+	margin-left: 21px;
+	color: #ffffff;
+}
+.s1{
+	margin-left: 39px;
+}
+.a5{
+	margin-left: 30px;
+}
+.a3{
+	margin-left: 25px;
+}
+.a4{
+	margin-left: 25px;
+}
+.suoyin-wrap{
+	background-color: #ffffff;
+	border-bottom: 2px double #753089;
+}
+.suoyin{
+	width: 1200px;
+	height: 90px;
+	margin: 0 auto;
+}
+.suoyin img{
+	float: left;
+	vertical-align: middle;
+}
+.suo{
+	float: left;
+	width: 1045px;
+}
+.suo li{
+	display: inline-block;
+	width: 120px;
+	height: 60px;
+	margin-top: 15px;
+	margin-left: 20px;
+	text-align: center;
+	border-radius: 10px;
+	
+}
+.suo li p{
+	font-size: 15px;
+	text-align: center;
+	margin-top: 5px;
+}
+
+.suo li:hover{
+	background-color: #753089;
+	color: #ffffff;
+}
+
+.neirong-wrap{
+	background-color: #f5f5f5;
+}
+.neirong{
+	width: 1200px;
+	margin: 0 auto;
+	vertical-align: center;
+}
+.fix{
+	position:fixed;
+	right:0;
+	top:130px;
+}
+.fix li{
+	width: 60px;
+	height:80px;
+	background-color:#020908;
+}
+.fix img{
+	margin-left: 15px;
+	margin-top: 30px;
+	vertical-align: center;
+}
+.fix hr{
+	size: 1px;
+	width: 75%;
+	text-align:center;
+	margin-left: 8px;
+}
+.l5 {
+	background-color: #753089;
+
+}
+.l5 p{
+	color: #ffffff;
+}
